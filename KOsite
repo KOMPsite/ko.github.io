@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>KO Engineering Portfolio</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+<h1>Kevin Owusu Afriyie</h1>
+<h2>Mechanical Engineering | Systems Builder | Aerospace & Energy</h2>
+
+<p>
+Welcome to my engineering portfolio.  
+I design and build mechanical systems focused on energy, infrastructure, and aerospace applications.
+</p>
+
+<h3>Featured Projects</h3>
+
+<ul>
+<li><a href="projects/flywheel.html">Flywheel Energy Cart</a></li>
+<li><a href="projects/pump.html">Stream Pump System</a></li>
+<li><a href="projects/rocket.html">Rocket Avionics Work</a></li>
+<li><a href="projects/machinery.html">Mechanical Systems Maintenance</a></li>
+</ul>
+
+<h3>Links</h3>
+
+<a href="about.html">About Me</a>
+
+</body>
+</html>
