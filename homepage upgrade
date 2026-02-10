@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Kevin Owusu Afriyie | Engineering Portfolio</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+  <div class="container">
+    <div class="header">
+      <h1>Kevin Owusu Afriyie</h1>
+      <p class="small">Mechanical Engineering | Systems Builder | Aerospace & Energy</p>
+
+      <div class="nav">
+        <a href="index.html">Home</a>
+        <a href="about.html">About</a>
+        <a href="projects/flywheel.html">Projects</a>
+      </div>
+    </div>
+
+    <p>
+      Welcome to my engineering portfolio. I design and build mechanical systems focused on energy,
+      infrastructure, and aerospace applications.
+    </p>
+
+    <h2>Featured Projects</h2>
+
+    <div class="card">
+      <h3><a href="projects/flywheel.html">Flywheel Energy Cart</a></h3>
+      <p class="small">Mechanical energy storage + drivetrain concept build and analysis.</p>
+      <span class="tag">Mechanical Design</span><span class="tag">Energy</span><span class="tag">CAD</span>
+    </div>
+
+    <div class="card">
+      <h3><a href="projects/pump.html">Stream Pump System</a></h3>
+      <p class="small">Community-focused water access concept: intake → pumping → delivery + filtration.</p>
+      <span class="tag">Water Systems</span><span class="tag">Prototyping</span><span class="tag">Impact</span>
+    </div>
+
+    <div class="card">
+      <h3><a href="projects/rocket.html">Rocket Avionics Work</a></h3>
+      <p class="small">Avionics subteam contribution: integration mindset, testing, system layout.</p>
+      <span class="tag">Aerospace</span><span class="tag">Avionics</span><span class="tag">Systems</span>
+    </div>
+
+    <div class="card">
+      <h3><a href="projects/machinery.html">Mechanical Systems Maintenance</a></h3>
+      <p class="small">Campus facilities maintenance: filters, air handlers, boilers, reliability work.</p>
+      <span class="tag">HVAC</span><span class="tag">Maintenance</span><span class="tag">Reliability</span>
+    </div>
+
+    <h2>Links</h2>
+    <ul>
+      <li><a href="about.html">About Me</a></li>
+      <li><a href="https://www.linkedin.com/in/ko-873416256" target="_blank">LinkedIn</a></li>
+    </ul>
+
+    <p class="small">© Kevin Owusu Afriyie</p>
+  </div>
+</body>
+</html>
